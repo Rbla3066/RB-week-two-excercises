@@ -22,3 +22,9 @@
 	width: 35%;
 	padding: 30px;
 }
+#header {
+	font-family: 'Slabo 27px', serif;
+}
+#text {
+	font-family: 'Lato', sans-serif;
+}
